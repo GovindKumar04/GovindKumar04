@@ -36,25 +36,6 @@
 
 ---
 
-### 💼 Featured Projects
-
-#### 🤖 [Insta Dev](https://github.com/GovindKumar04/Insta-dev)
-> **MERN Stack | Gemini API | Socket.io**  
-> Built a full-stack platform for developers to collaborate, chat, and enhance their workflow with AI.  
-> 
-> - 💬 Integrated **Gemini AI** for chat, code generation, and prompt enhancement  
-> - 🔐 Implemented **Google OAuth** & **JWT authentication** for secure login  
-> - ⚙️ Developed **real-time chat** features using **Socket.io**  
-> - 🗄️ Stack: React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API, Socket.io  
-
----
-
-#### 🥘 [Woofey](https://github.com/GovindKumar04/Woofey)
-> **MERN-based food delivery app** with Razorpay integration and JWT authentication.  
-> - Tech: React, Node.js, Express, MongoDB, Tailwind, JWT, Bcrypt
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
