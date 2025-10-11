@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | AI Integration | Entrepreneur from Bihar, India 🇮🇳</h3>
+<h3 align="center">💻 Full Stack Developer | MERN | AI Integration </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Specialist+⚛️;AI+Integration+with+Gemini+API+🤖;Open+Source+Contributor+🌐;Aspiring+Business+Tycoon+💼" alt="Typing SVG" />
@@ -9,14 +9,11 @@
 
 ### 🌟 About Me
 
-- 🚀 Full Stack Developer specializing in **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🤖 Passionate about **AI integration** using **Gemini API**
-- 💬 Built **Insta Dev**, an AI-powered developer platform with real-time chat & Google OAuth  
-- 🍴 Created **Woofey**, a food delivery website with Razorpay payments  
-- 🚑 Developed **Emergency Ambulance Booking Portal** using PHP + MySQL  
-- 🎯 My dream: **Become a business tycoon and make education accessible for everyone**  
-- 🌱 Currently learning **Next.js** and **TypeScript**  
-- 📫 Reach me at **govindkumar@example.com** *(replace with your real email)*  
+- 🚀 Full Stack Developer passionate about building scalable, intelligent, and user-focused web solutions.  
+- 💡 Skilled in the **MERN Stack**, **AI integration**, and **real-time systems**.  
+- ⚙️ I believe in clean code, sharp design, and purposeful innovation.  
+- 🎯 Driven to create tech that empowers people and makes a real impact.  
+- 📫 Reach me at **singhalgovind305@gmail.com**   
 
 ---
 
@@ -82,10 +79,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  
+  <a href="https://linkedin.com/in/govind-ku-mar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/GovindKumar04" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:govindkumar@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/yourinstagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:singhalgovind305@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
