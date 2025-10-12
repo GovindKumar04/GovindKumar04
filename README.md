@@ -20,7 +20,7 @@
 
 #### 💻 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,php,html,css,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,java" />
 </p>
 
 #### ⚙️ Frameworks & Libraries:
