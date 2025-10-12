@@ -25,12 +25,12 @@
 
 #### ⚙️ Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,redux,express" />
 </p>
 
 #### 🧰 Tools & Platforms:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,vercel,netlify" />
 </p>
 
 ---
