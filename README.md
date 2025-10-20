@@ -20,7 +20,7 @@
 
 #### 💻 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql,postgres,java" />
 </p>
 
 #### ⚙️ Frameworks & Libraries:
@@ -30,7 +30,7 @@
 
 #### 🧰 Tools & Platforms:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,vercel" />
 </p>
 
 ---
