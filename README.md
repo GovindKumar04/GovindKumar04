@@ -43,7 +43,7 @@
 ### 🗄️ Databases & Caching
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres" />
 </p>
 
 ### ☁️ Deployment & Hosting
