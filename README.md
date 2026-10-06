@@ -49,6 +49,7 @@
 ### ☁️ Deployment & Hosting
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=vercel" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
