@@ -58,7 +58,7 @@
 ### 🧰 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
 </p>
 
 ---
